@@ -1,0 +1,164 @@
+body{
+ background-image: url(background.jpg);
+ background-size: cover;
+}
+
+.Container{
+  text-align: center;
+  width: 950px;
+  height: 650px;
+  margin: auto;
+  background: rgba(0, 0, 0, 0.5);
+
+}
+
+.Logo{width: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  top: 80px
+
+}
+
+.Logo-Text{
+  text-align: center;
+  color: #32CD32;
+  position: relative;
+  top: 60px
+
+}
+
+.rettangolo{
+  width: 800px;
+  height: 40px;
+  background-color: #32CD32;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  top: 45px
+
+}
+
+  input{
+  margin: auto;
+  display: inline;
+  text-align: center;
+  position: relative;
+  top: 10px
+
+  }
+
+  .Gino1{
+    color: white;
+    text-align: left;
+    position: relative;
+    top: 0px
+
+  }
+
+  .Gino2{
+  color: white;
+  text-align: left;
+  margin: 0;
+  position: relative;
+  top: -20px
+
+  }
+
+  .Gino3{
+    color: white;
+    text-align: left;
+    margin: 0;
+    position: relative;
+    top:-20px
+
+  }
+
+  .Mike1{
+  color: white;
+  text-align: left;
+  margin: 0;
+  position: relative;
+  top: 40px
+
+  }
+
+  .Mike2{
+  color: white;
+  text-align: left;
+  margin: 0;
+  position: relative;
+  top: 40px
+
+  }
+
+  .Mike3{
+  color: white;
+  text-align: left;
+  margin: 0;
+  position: relative;
+  top: 40px
+
+  }
+
+  .Fede1{
+  color: white;
+  text-align: left;
+  margin: 0;
+  position: relative;
+  top: 40px
+
+  }
+
+  .Fede2{
+  color: white;
+  text-align: left;
+  margin: 0;
+  position: relative;
+  top: 40px
+
+  }
+
+  .Fede3{
+  color: white;
+  text-align: left;
+  margin: 0;
+  position: relative;
+  top: 40px
+
+  }
+
+  .CaricaGino{
+    width: 250px;
+    height: 20px;
+    background-color: orange;
+    display: block;
+    position: relative;
+    top: -20px;
+    border-radius: 5px
+
+  }
+
+  .CaricaMike{
+    width: 500px;
+    height: 20px;
+    background-color: #32CD32;
+    display: block;
+    position: relative;
+    top: 40px;
+    border-radius: 5px
+
+  }
+
+  .CaricaFede{
+    width: 135px;
+    height: 20px;
+    background-color: Red;
+    display: block;
+    position: relative;
+    top: 40px;
+    border-radius: 5px
+
+  }
